@@ -10,5 +10,8 @@ public class Day2 {
           sinifMap.put(103,"Taha, Emre, JDev");
           sinifMap.put(104,"Derya, Deniz, Devops");
          */
+    public static void main(String[] args) {
+        System.out.println("Github");
+    }
 }
 
