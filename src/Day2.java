@@ -1,3 +1,5 @@
+package Ma.src;
+
 public class Day2 {
     /*
           eger bir elementle ile ilgili tutacagimiz bilgiler coksa veya kompleks ise
