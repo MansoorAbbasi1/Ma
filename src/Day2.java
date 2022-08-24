@@ -9,6 +9,8 @@ public class Day2 {
           sinifMap.put(no=102,isim=Enes,soyisim= Cem,brans= Tester);
           sinifMap.put(103,"Taha, Emre, JDev");
           sinifMap.put(104,"Derya, Deniz, Devops");
+
+          not: git log
          */
     public static void main(String[] args) {
         System.out.println("Github");
