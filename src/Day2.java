@@ -12,6 +12,7 @@ public class Day2 {
 
           not: git log
            not: git log11111111
+           not: git log22222222
          */
     public static void main(String[] args) {
         System.out.println("Github");
