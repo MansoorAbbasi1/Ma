@@ -11,6 +11,7 @@ public class Day2 {
           sinifMap.put(104,"Derya, Deniz, Devops");
 
           not: git log
+           not: git log11111111
          */
     public static void main(String[] args) {
         System.out.println("Github");
